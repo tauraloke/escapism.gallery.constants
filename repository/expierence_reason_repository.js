@@ -1,4 +1,4 @@
-const expierenceReasons = require("../../enum/expierence_reasons.json");
+const expierenceReasons = require("../enum/expierence_reasons.json");
 
 module.exports = {
   getIdExprierenceReason: (id) => {
