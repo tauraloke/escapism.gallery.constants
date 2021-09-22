@@ -1,0 +1,12 @@
+{
+  "FORBIDDEN_403": {
+    "id": 1,
+    "webname": "forbidden_place",
+    "title": "Forbidden place"
+  },
+  "LOST_404": {
+    "id": 2,
+    "webname": "lost_place",
+    "title": "Lost place"
+  }
+}
