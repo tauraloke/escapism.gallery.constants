@@ -1,0 +1,7 @@
+{
+  "PENDING": 0,
+  "APPROVED": 1,
+  "REJECTED": 2,
+  "HIDDEN_BY_MODER": 3,
+  "HIDDEN_BY_OWNER": 4
+}
