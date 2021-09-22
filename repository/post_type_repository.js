@@ -2,7 +2,7 @@
 /**
  * @file Should be accessable from frontend, so it can not use DB
  */
-const postTypes = require("escapism.gallery.constants/enum/post_types.json");
+const postTypes = require("../enum/post_types.json");
 
 module.exports = {
   /**
