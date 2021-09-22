@@ -1,4 +1,4 @@
-const frameData = require("../../enum/frame_ids.json");
+const frameData = require("../enum/frame_ids.json");
 const frameClassNames = Object.entries(frameData).reduce(
   (obj, [k, v]) => ({ ...obj, [v]: k.toLowerCase() }),
   {}
