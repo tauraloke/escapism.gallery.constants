@@ -2,5 +2,7 @@
   "license": "BSD-3-Clause",
   "name": "escapism.gallery.constants",
   "version": "1.0.0",
-  "dependencies": {}
+  "dependencies": {
+    "escapism.gallery.constants": "github:tauraloke/escapism.gallery.constants"
+  }
 }
