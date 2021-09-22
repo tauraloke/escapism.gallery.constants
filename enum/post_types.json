@@ -1,0 +1,88 @@
+{
+  "BLOG": {
+    "id": 0,
+    "stream_slug": "blog",
+    "creatable_via_main_form": true,
+    "message_required": true,
+    "allowed_for_community": true,
+    "viewable_only_for": "all",
+    "is_taggable": true
+  },
+  "PORTFOLIO": {
+    "id": 1,
+    "stream_slug": "portfolio",
+    "can_have_files": true,
+    "files_required": true,
+    "creatable_via_main_form": true,
+    "crosspostable_to_community": true,
+    "viewable_only_for": "all",
+    "is_taggable": true
+  },
+  "GIFT": {
+    "id": 2,
+    "stream_slug": "giftery",
+    "can_have_files": true,
+    "files_required": true,
+    "creatable_via_main_form": true,
+    "is_appovable": true,
+    "viewable_only_for": "all"
+  },
+  "REFERENCE": {
+    "id": 4,
+    "stream_slug": "references",
+    "can_have_files": true,
+    "creatable_via_main_form": true,
+    "viewable_only_for": "all"
+  },
+  "QUEST": {
+    "id": 5,
+    "stream_slug": "quests",
+    "can_have_files": true,
+    "creatable_via_main_form": true,
+    "message_required": true,
+    "allowed_for_community": true,
+    "allow_edit_level": true,
+    "viewable_only_for": "all",
+    "is_taggable": true
+  },
+  "COMPLETED_QUEST": {
+    "id": 6,
+    "stream_slug": "completed_quests",
+    "can_have_files": true,
+    "files_required": true,
+    "creatable_via_main_form": true,
+    "allowed_for_community": true,
+    "is_appovable": true,
+    "viewable_only_for": "mentor",
+    "is_files_expirable": true
+  },
+  "REPOST_PORTFOLIO_TO_COMMUNITY": {
+    "id": 7,
+    "stream_slug": "artworks",
+    "can_have_files": false,
+    "allowed_for_community": true,
+    "not_viewable_by_link": true,
+    "viewable_only_for": "nobody"
+  },
+  "TAKEN_QUEST": {
+    "id": 8,
+    "stream_slug": "taken_quests",
+    "viewable_only_for": "author"
+  },
+  "WORK_IN_PROGRESS": {
+    "id": 9,
+    "stream_slug": "wip",
+    "can_have_files": true,
+    "files_required": true,
+    "creatable_via_main_form": true,
+    "viewable_only_for": "mentor",
+    "is_files_expirable": true
+  },
+  "TAG_DESCRIPTOR": {
+    "id": 10,
+    "stream_slug": "tag_descriptors",
+    "viewable_only_for": "nobody",
+    "is_taggable": true,
+    "not_viewable_by_link": true
+  }
+}
