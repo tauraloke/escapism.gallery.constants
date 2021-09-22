@@ -93,9 +93,3 @@ sw.*
 # Redis hash file
 dump.rdb
 
-# Uploaded images
-static/upload
-tmp
-
-# creds
-docker/env/credentials-dev
