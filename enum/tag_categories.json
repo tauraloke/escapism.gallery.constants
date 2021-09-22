@@ -1,0 +1,6 @@
+{
+  "UNKNOWN": 0,
+  "CHARACTER": 1,
+  "INSTRUMENT": 2,
+  "OTHER": 3
+}
