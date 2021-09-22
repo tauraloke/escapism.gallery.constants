@@ -1,0 +1,5 @@
+{
+  "FREE": 0,
+  "USER_ONLY": 1,
+  "HIDDEN": 2
+}
