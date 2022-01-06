@@ -26,4 +26,5 @@ module.exports = {
   [notificationTypes["COMMENT_HAS_BEEN_ANSWERED"]]: {},
   [notificationTypes["POST_HAS_BEEN_ANSWERED"]]: {},
   [notificationTypes["STRIKE_FOR_YOU"]]: { is_reportable: true },
+  [notificationTypes["GOT_ACHIEVEMENT"]]: {},
 };
