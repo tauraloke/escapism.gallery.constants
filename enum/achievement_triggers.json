@@ -1,0 +1,5 @@
+{
+  "FIRST_PORTFOLIO": { "id": 1, "is_universal": true },
+  "FIRST_QUEST_IN_COMMUNITY": { "id": 2, "is_community": true },
+  "FIRST_BLOG_POST": { "id": 3, "is_universal": true }
+}
