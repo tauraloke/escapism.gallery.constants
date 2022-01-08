@@ -84,5 +84,11 @@
     "viewable_only_for": "nobody",
     "is_taggable": true,
     "not_viewable_by_link": true
+  },
+  "ACHIEVEMENT_DESCRIPTOR": {
+    "id": 11,
+    "stream_slug": "achievement_descriptors",
+    "viewable_only_for": "nobody",
+    "not_viewable_by_link": true
   }
 }
